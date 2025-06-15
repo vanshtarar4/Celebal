@@ -2,13 +2,24 @@
 
 This repository contains all my assignment solutions for the Celebal program.
 
-## Assignment Links
+## 📁 Assignment Structure
 
-| Week | OneDrive Link | Description |
-|------|---------------|-------------|
-| Week 3 | [View Assignment](https://1drv.ms/f/c/9719b1c66cc4bd68/EjqIs1B4BKhAiD3R5ZqPm9QBTTwXwUgJgOKx-7EJ4ngNlw?e=rKF6oz) | Task solutions |
-| Week 4 | [View Assignment](https://1drv.ms/f/c/9719b1c66cc4bd68/EpAP2Yv5qe5FgtVHEBjzRLIBlbEHeOBBN_4owVJrXHepVQ?e=eDbTjA) | Task solutions |
+| Week | Folder | Status | Submission Date |
+|------|--------|---------|-----------------|
+| Week 3 | [📂 Week-3/](./Week-3/) | ✅ Completed | June 2025 |
+| Week 4 | [📂 Week-4/](./Week-4/) | ✅ Completed | June 2025 |
 
-## How to Access
-1. Click on the OneDrive link for the respective week
-2. All assignment files and videos are organized by week
+## 🔍 How to Navigate
+- Click on any week folder to view that week's specific assignments
+- Each week has its own README with detailed information
+- All assignment videos and files are organized by week
+
+## 📖 Instructions for Evaluators
+- Navigate to the specific week folder you need to review
+- Each week contains dedicated OneDrive links for that week only
+- No confusion between different weeks' assignments
+
+---
+*Last Updated: June 15, 2025*
+
+**For evaluators: Please navigate to the specific week folder you need to review.**
