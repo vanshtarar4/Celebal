@@ -16,6 +16,7 @@ This folder contains all task solutions and videos specifically for Week 4 assig
 1. Click the OneDrive link above to access Week 4 materials
 2. All files are organized within the OneDrive folder
 3. Videos and documents are clearly labeled for Week 4
+4. Some of the files I shared earlier aren't showing up properly, so I'm re-uploading them here to make sure everything is accessible. Thanks for your understanding!
 
 ---
 [← Previous Week](../Week-3/README.md) | [Back to Main](../README.md)
