@@ -7,7 +7,7 @@
 - **Status**: ✅ Completed
 
 ## 🎥 Assignment Videos & Files
-**[📁 View Week 5 Assignment on OneDrive](https://drive.google.com/drive/folders/1aZqR8lXcNJGfRAInQF-bPBAp4elr5B1-?usp=sharing)**
+**[📁 View Week 5 Assignment on GoogleDrive](https://drive.google.com/drive/folders/1aZqR8lXcNJGfRAInQF-bPBAp4elr5B1-?usp=sharing)**
 
 ## 📝 Week 5 Content
 This week focused on advanced containerization and Kubernetes orchestration:
