@@ -7,7 +7,7 @@
 - **Status**: ✅ Completed
 
 ## 🎥 Assignment Videos & Files
-**[📁 View Week 6 Assignment on GoogleDrive](https://youtube.com)**
+**[📁 View Week 6 Assignment on GoogleDrive](https://drive.google.com/drive/folders/1ThMYovjQCjYOSGPKcDHzQmJzdQ30qbXZ?usp=sharing)**
 
 ## 📝 Week 6 Content
 This week focused on several advanced Kubernetes topics:
