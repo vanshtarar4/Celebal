@@ -10,6 +10,7 @@ This repository contains all my assignment solutions for the Celebal program.
 | Week 4 | [📂 Week-4/](./Week-4/) | ✅ Completed | June 2025      |
 | Week 5 | [📂 Week-5/](./Week-5/) | ✅ Completed | June 2025      |
 | Week 6 | [📂 Week-6/](./Week-6/) | ✅ Completed | June 2025      |
+| Week 7 | [📂 Week-7/](./Week-7/) | ✅ Completed | July 2025      |
 
 ## 🔍 How to Navigate
 - Click on any week folder to view that week's specific assignments
@@ -22,6 +23,6 @@ This repository contains all my assignment solutions for the Celebal program.
 - No confusion between different weeks' assignments
 
 ---
-*Last Updated: June 27, 2025*
+*Last Updated: July 2, 2025*
 
 **For evaluators: Please navigate to the specific week folder you need to review.**
