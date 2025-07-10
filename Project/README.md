@@ -3,7 +3,7 @@
 This repository demonstrates a CI/CD workflow to deploy a Dockerized Spring Boot Java application to **Microsoft Azure App Service** using **GitHub Actions**.
 
 🔗 **GitHub Repo**: [Celebal_Project](https://github.com/vanshtarar4/Celebal_Project)  
-🎥 **Showcase Video**: [Google Drive Demo](<YOUR-GOOGLE-DRIVE-LINK-HERE>)  
+🎥 **Showcase Video**: [Google Drive Demo](https://drive.google.com/drive/folders/1dzOpeZZ_Vtlt8Mkvxk_C8PVN4AYNEvCc?usp=sharing)  
 🌐 **Live Web App**: [Celebal Pharma App](https://celebal-pharma-app-b0d3f5c5f5hhhngn.eastus-01.azurewebsites.net)
 
 ---
