@@ -102,14 +102,9 @@ Access the application at `http://localhost:8080`
 **Vansh Tarar**  
 Intern @ Celebal Technologies  
 📧 vanshtarar4@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vanshtarar4)
+🔗 [LinkedIn](https://www.linkedin.com/in/vanshtarar/)
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 [← Back to Main](../README.md) | [Next Week →](../Week-3/README.md)
