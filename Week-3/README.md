@@ -18,4 +18,4 @@ This folder contains all task solutions and videos specifically for Week 3 assig
 3. Videos and documents are clearly labeled for Week 3
 
 ---
-[← Back to Main](../README.md) | [Next Week →](../Week-4/README.md)
+[← Back to Project](..Project/README.md) | [Next Week →](../Week-4/README.md)
