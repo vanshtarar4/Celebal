@@ -4,14 +4,15 @@ This repository contains all my assignment solutions for the Celebal program.
 
 ## 📁 Assignment Structure
 
-| Week   | Folder            | Status         | Submission Date |
-|--------|-------------------|---------------|-----------------|
-| Week 3 | [📂 Week-3/](./Week-3/) | ✅ Completed | June 2025      |
-| Week 4 | [📂 Week-4/](./Week-4/) | ✅ Completed | June 2025      |
-| Week 5 | [📂 Week-5/](./Week-5/) | ✅ Completed | June 2025      |
-| Week 6 | [📂 Week-6/](./Week-6/) | ✅ Completed | June 2025      |
-| Week 7 | [📂 Week-7/](./Week-7/) | ✅ Completed | July 2025      |
-| Week 8 | [📂 Week-8/](./Week-8/) | ✅ Completed | July 2025      |
+| Week    | Folder              | Status        | Submission Date |
+|---------|---------------------|---------------|-----------------|
+| Week 3  | [📂 Week-3/](./Week-3/)   | ✅ Completed | June 2025      |
+| Week 4  | [📂 Week-4/](./Week-4/)   | ✅ Completed | June 2025      |
+| Week 5  | [📂 Week-5/](./Week-5/)   | ✅ Completed | June 2025      |
+| Week 6  | [📂 Week-6/](./Week-6/)   | ✅ Completed | June 2025      |
+| Week 7  | [📂 Week-7/](./Week-7/)   | ✅ Completed | July 2025      |
+| Week 8  | [📂 Week-8/](./Week-8/)   | ✅ Completed | July 2025      |
+| Project | [📂 Project/](./Project/) | ✅ Completed | July 2025      |
 
 ## 🔍 How to Navigate
 - Click on any week folder to view that week's specific assignments
