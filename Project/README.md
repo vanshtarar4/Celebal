@@ -1,4 +1,3 @@
-
 # 🚀 Azure Web App Deployment using GitHub Actions
 
 This repository demonstrates a CI/CD workflow to deploy a Dockerized Spring Boot Java application to **Microsoft Azure App Service** using **GitHub Actions**.
@@ -46,3 +45,71 @@ graph TD;
     D --> E[Azure Web App];
     E --> F[Pull Docker Image];
     F --> G[Deploy to App Service];
+```
+
+---
+
+## 🔁 CI/CD Workflow
+
+1. Create GitHub repo with Spring Boot Java app.
+2. Set up Azure Web App service instance.
+3. Create GitHub Actions workflow (YAML).
+4. Configure automatic triggers on push.
+5. Securely store secrets in GitHub.
+6. Authenticate Azure and deploy Docker image.
+7. Validate the deployed app.
+8. Set up monitoring & logs in Azure.
+
+---
+
+## 📂 Tech Stack
+
+- **Java 17**
+- **Spring Boot**
+- **Docker**
+- **GitHub Actions**
+- **Microsoft Azure App Service**
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/vanshtarar4/Celebal_Project.git
+cd Celebal_Project
+
+# Build Docker image
+docker build -t celebal-app .
+
+# Run Docker container
+docker run -p 8080:8080 celebal-app
+```
+
+Access the application at `http://localhost:8080`
+
+---
+
+## 📎 Helpful References
+
+- [Azure GitHub Actions Deployment Docs](https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel%2Caspnetcore)
+- [Medium Article - Spring Boot + Azure](https://medium.com/@kharvinagaraj1/deploying-a-spring-boot-java-application-to-azure-app-service-using-github-actions-9d03405380bf)
+
+---
+
+## 👨‍💼 Author
+
+**Vansh Tarar**  
+Intern @ Celebal Technologies  
+📧 vanshtarar4@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/vanshtarar4)
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+[← Back to Main](../README.md) | [Next Week →](../Week-3/README.md)
