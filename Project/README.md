@@ -4,7 +4,7 @@ This repository demonstrates a CI/CD workflow to deploy a Dockerized Spring Boot
 
 🔗 **GitHub Repo**: [Celebal_Project](https://github.com/vanshtarar4/Celebal_Project)  
 🎥 **Showcase Video**: [Google Drive Demo](<YOUR-GOOGLE-DRIVE-LINK-HERE>)  
-🌐 **Live Web App**: [celebal-pharma-app on Azure](https://celebal-pharma-app-b0d3f5c5f5hhhngn.eastus-01.azurewebsites.net)
+🌐 **Live Web App**: [Celebal Pharma App](https://celebal-pharma-app-b0d3f5c5f5hhhngn.eastus-01.azurewebsites.net)
 
 ---
 
