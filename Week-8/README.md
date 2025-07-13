@@ -7,7 +7,7 @@
 - **Status**: ⏳ In Progress
 
 ## 🎥 Assignment Videos & Files
-**[📁 View Week 8 Assignment on GoogleDrive]()**
+**[📁 View Week 8 Assignment on GoogleDrive](https://drive.google.com/drive/folders/11tPab8z_BZ_MRrmNIXwOdw-pkrrxFMKW?usp=sharing)**
 
 ## 📝 Week 8 Content
 This week focused on foundational concepts of DevOps:
